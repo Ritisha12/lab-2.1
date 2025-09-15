@@ -1,0 +1,7 @@
+#include <stdio.h>
+#include <stdib.h>
+int main(){
+    puts("Hello, this is my first c program")
+    return EXIT_SUCCESS;
+}
+
